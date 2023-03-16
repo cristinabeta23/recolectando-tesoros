@@ -1,1 +1,1 @@
-# recolectando-tesoros
+# solución-del-proyecto-recolectar-tesoros-2
